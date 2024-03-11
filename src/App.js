@@ -14,9 +14,9 @@ export default function App () {
         <div className="wrapper">
             <Header />
             <Router>
-                <Routes>
-                    <Route exact path="/" element={<Main />} />
-                    <Route path="/about" element={<About />} />
+                <Routes basename={process.env.PUBLIC_URL}>
+                    <Route exact path="/#/" element={<Main />} />
+                    <Route path="/#/about" element={<About />} />
                     <Route path="/hcp" element={<HCP />} />
                     {HCP_list.map((hcp) => 
                         <Route key={hcp.id} path={hcp.path} element={hcp.comp}/>

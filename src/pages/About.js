@@ -9,7 +9,7 @@ import Page_title from "../components/ui/Page_title";
 export default function About() {
   return (
     <div>
-      <Page_title getTitle="О клинике" back={"/"}/>
+      <Page_title getTitle="О клинике" back={"/#/"}/>
 
       <Description />
 

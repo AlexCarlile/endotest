@@ -12,16 +12,16 @@ export default function Header() {
   return (
     <header className="header">
       <div className="header-container flex container">
-        <a href="/" className="header-logo">
+        <a href="/#/" className="header-logo">
           <img src={logo} alt="Логотип Сеченовского Университета" />
         </a>
         <nav className= {navActive === true ? "header-nav active flex " : "header-nav flex"}>
           <ul className="header-list list-reset flex">
             <li className="header-list-item">
-              <a className="header-item-txt" href="/">Главная</a> 
+              <a className="header-item-txt" href="/#/">Главная</a> 
             </li>
             <li className="header-list-item">
-              <a className="header-item-txt" href="/about">О клинике</a>
+              <a className="header-item-txt" href="/#/about">О клинике</a>
             </li>
             {/* <li className="header-list-item">
               <a className="header-item-txt" href="/prices">Цены</a>
