@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/endotest/static/css/main.d9a64926.chunk.css",
+    "main.js": "/endotest/static/js/main.4f81f881.chunk.js",
+    "main.js.map": "/endotest/static/js/main.4f81f881.chunk.js.map",
+    "runtime-main.js": "/endotest/static/js/runtime-main.5773ac4f.js",
+    "runtime-main.js.map": "/endotest/static/js/runtime-main.5773ac4f.js.map",
+    "static/js/2.07b24e3a.chunk.js": "/endotest/static/js/2.07b24e3a.chunk.js",
+    "static/js/2.07b24e3a.chunk.js.map": "/endotest/static/js/2.07b24e3a.chunk.js.map",
+    "index.html": "/endotest/index.html",
+    "precache-manifest.36ee605e23609e93bff1142b81fd4e1c.js": "/endotest/precache-manifest.36ee605e23609e93bff1142b81fd4e1c.js",
+    "service-worker.js": "/endotest/service-worker.js",
+    "static/css/main.d9a64926.chunk.css.map": "/endotest/static/css/main.d9a64926.chunk.css.map",
+    "static/js/2.07b24e3a.chunk.js.LICENSE.txt": "/endotest/static/js/2.07b24e3a.chunk.js.LICENSE.txt",
+    "static/media/Clinic.jpg": "/endotest/static/media/Clinic.a096107e.jpg",
+    "static/media/Fadeev.png": "/endotest/static/media/Fadeev.a44dbfda.png",
+    "static/media/Fadeev.jpg": "/endotest/static/media/Fadeev.c2dbf7e4.jpg",
+    "static/media/main.css": "/endotest/static/media/doctor-performing-routine-medical-checkup 3.692fe913.jpg",
+    "static/media/logo_sech_white.svg": "/endotest/static/media/logo_sech_white.e648621e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5773ac4f.js",
+    "static/js/2.07b24e3a.chunk.js",
+    "static/css/main.d9a64926.chunk.css",
+    "static/js/main.4f81f881.chunk.js"
+  ]
+}
