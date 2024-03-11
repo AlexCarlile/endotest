@@ -21,7 +21,7 @@ export default function About_block() {
             <div className="about-kol container flex">
                 <img src={Fadeev} className="about-kol-img" alt="Фото профессора Фадеева В.В"/>
                 <DarkButton className="dark-btn-mob flex">
-                    <Link style = {{display: "flex", alignItems: "center"}} to="/#/about">Узнать больше</Link>
+                    <Link style = {{display: "flex", alignItems: "center"}} to="/about">Узнать больше</Link>
                 </DarkButton>
                 <div className="about-kol-content flex">
                     <p className="about-kol-text">
@@ -32,7 +32,7 @@ export default function About_block() {
                     </span>
                     
                     <DarkButton className="dark-btn">
-                        <a style = {{display: "flex", alignItems: "center"}}href="/about">Узнать больше</a>
+                        <Link style = {{display: "flex", alignItems: "center"}} to="/about">Узнать больше</Link>
                     </DarkButton>
                 </div>
                 

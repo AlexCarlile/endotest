@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import logo from '../img/logo_sech_white.svg';
 import Booking from './AboutPage/Booking';
+import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import '../CSS/main.css';
 
@@ -10,28 +11,28 @@ export default function Header() {
   return (
     <footer className="footer">
       <div className="container flex header-container">
-        <a href="/" className="header-logo footer-logo">
+        <Link to="/" className="header-logo footer-logo">
           <img src={logo} alt="олготип Сеченовского Университета" />
-        </a>
+        </Link>
         <nav className="header-nav flex">
           <ul className="footer-list list-reset flex">
             <li className="footer-list-item">
-              <a href="/">Главная</a> 
+              <Link to="/">Главная</Link> 
             </li>
             <li className="footer-list-item">
-              <a href="/about">О клинике</a>
-            </li>
-            {/* <li className="footer-list-item">
-              <a href="/prices">Цены</a>
-            </li> */}
-            <li className="footer-list-item">
-              <a href="/hcp">Врачи</a>
+              <Link to="/about">О клинике</Link>
             </li>
             {/* <li className="footer-list-item">
-              <a href="/blog">Блог</a>
+              <Link to="/prices">Цены</Link>
             </li> */}
             <li className="footer-list-item">
-              <a href="/contacts">Контакты</a>
+              <Link to="/hcp">Врачи</Link>
+            </li>
+            {/* <li className="footer-list-item">
+              <Link to="/blog">Блог</Link>
+            </li> */}
+            <li className="footer-list-item">
+              <Link to="/contacts">Контакты</Link>
             </li>
           </ul>
         </nav>
