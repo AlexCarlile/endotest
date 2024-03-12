@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/endotest/static/css/main.4695a14b.css",
+    "main.css": "/endotest/static/css/main.0e8a2539.css",
     "main.js": "/endotest/static/js/main.355037e6.js",
     "static/media/logo_sech_white.svg": "/endotest/static/media/logo_sech_white.aac16dee8ffc91d2061f172fee209393.svg",
     "static/media/Page-title_bckg.svg": "/endotest/static/media/Page-title_bckg.f3aaa699a60c4568d0db.svg",
@@ -10,11 +10,11 @@
     "static/media/Group.png": "/endotest/static/media/Group.65643d0a1552c4984b05.png",
     "static/media/Fadeev.jpg": "/endotest/static/media/Fadeev.40f59f7b1c7ee7c5dbeb.jpg",
     "index.html": "/endotest/index.html",
-    "main.4695a14b.css.map": "/endotest/static/css/main.4695a14b.css.map",
+    "main.0e8a2539.css.map": "/endotest/static/css/main.0e8a2539.css.map",
     "main.355037e6.js.map": "/endotest/static/js/main.355037e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4695a14b.css",
+    "static/css/main.0e8a2539.css",
     "static/js/main.355037e6.js"
   ]
 }
