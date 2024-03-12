@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/endotest/static/css/main.3d3da581.css",
-    "main.js": "/endotest/static/js/main.292fa9cc.js",
+    "main.js": "/endotest/static/js/main.355037e6.js",
     "static/media/logo_sech_white.svg": "/endotest/static/media/logo_sech_white.aac16dee8ffc91d2061f172fee209393.svg",
     "static/media/Page-title_bckg.svg": "/endotest/static/media/Page-title_bckg.f3aaa699a60c4568d0db.svg",
     "static/media/Clinic.jpg": "/endotest/static/media/Clinic.d7df2bb6a1a68db9cf66.jpg",
@@ -11,10 +11,10 @@
     "static/media/Fadeev.jpg": "/endotest/static/media/Fadeev.40f59f7b1c7ee7c5dbeb.jpg",
     "index.html": "/endotest/index.html",
     "main.3d3da581.css.map": "/endotest/static/css/main.3d3da581.css.map",
-    "main.292fa9cc.js.map": "/endotest/static/js/main.292fa9cc.js.map"
+    "main.355037e6.js.map": "/endotest/static/js/main.355037e6.js.map"
   },
   "entrypoints": [
     "static/css/main.3d3da581.css",
-    "static/js/main.292fa9cc.js"
+    "static/js/main.355037e6.js"
   ]
 }
