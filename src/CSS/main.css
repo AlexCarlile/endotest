@@ -915,6 +915,7 @@ padding-bottom: 160px;
   width: 10px;
   background-color: inherit;
   transform: rotate(-30deg) translate(-5%, -120%);
+  color: white;
 }
 
 
@@ -927,7 +928,7 @@ padding-bottom: 160px;
   width: 10px;
   background-color: inherit;
   transform: rotate(30deg) translate(-12%, 50%);
-
+  color: white;
 }
 
 
